@@ -2,7 +2,7 @@
 
 Nodo IoT de bajo costo para el monitoreo de disponibilidad de agua y alerta temprana por escasez hídrica en la Sabana Centro (Cundinamarca). Mide nivel de agua y clima, fusiona las señales en un índice de riesgo y alerta en el propio dispositivo y en un **tablero de control servido por el Arduino UNO R4 WiFi** dentro de la WLAN de la zona.
 
-📘 **Documentación completa:** [Wiki del Challenge #2](https://github.com/DrearSanti/IoT-Challenge-2/wiki)
+**Documentación completa:** [Wiki del Challenge #2](https://github.com/DrearSanti/IoT-Challenge-2/wiki)
 
 ## Contenido del repositorio
 
